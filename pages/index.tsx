@@ -68,7 +68,7 @@ const Home: React.FC = () => {
 			<Head>
 				<title>Drums App</title>
 				<meta name='description' content='Funny drums application' />
-				<link rel='icon' href='/favicon.ico' />
+				<link rel='icon' href='/favicon.png' />
 			</Head>
 
 			<PadsWrapper>
